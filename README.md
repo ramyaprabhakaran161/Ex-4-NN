@@ -1,6 +1,6 @@
 
-<H3>ENTER YOUR NAME:RAMYA P</H3>
-<H3>ENTER YOUR REGISTER NO.212223230168</H3>
+<H3>NAME:RAMYA P</H3>
+<H3>REGISTER NO.212223230168</H3>
 <H3>EX. NO.4</H3>
 
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
